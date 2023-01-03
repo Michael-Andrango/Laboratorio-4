@@ -75,7 +75,7 @@ CIRCUITO EXPERIMENTAL:
 
 ![IMG_20230102_231506](https://user-images.githubusercontent.com/117534483/210302980-08572d45-3731-4ed0-a095-1a3eabe8d4c3.jpg)
 
-![IMG_20230102_231627](https://user-images.githubusercontent.com/117534483/210302982-5b8e28bc-e9ec-4220-a562-4d90eb742e7c.jpg)
+![IMG_20230102_231627](https://user-images.githubusercontent.com/117534483/210401079-87d8af21-f05e-46a2-8fa1-e0ce253958ec.jpeg)
 
 4.5.4. Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
