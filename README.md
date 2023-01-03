@@ -1,5 +1,31 @@
 # Laboratorio-4
 
+Universidad de las Fuerzas Armadas Espe
+
+Asignatura: Fundamentos de Circuitos Eléctricos
+
+Docente: Ing. Darwin Alulema
+
+Integrantes: JEAN PIERRE MERA GUZMAN -MICHAEL PATRICIO ANDRANGO CAMPUEZ -JOSE MAURICIO FUEREZ ARIAS
+
+Parcial: 2
+
+Laboratorio Nro 4 TEMA: Teorema de superposicion 
+
+2 OBJETIVOS
+
+4.1 Objetivo General:
+
+4.2 Objetivos especificos:
+
+4.3 Marco teorico
+
+
+
+4.4. MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/107088999/210293297-50da8df1-6dde-40e0-9135-db8a4c9e85c8.png)
+
 
 4.5. PROCEDIMIENTO
 
@@ -26,7 +52,8 @@
 
 Calculo analitico
 
- ![image](https://user-images.githubusercontent.com/107088999/210285220-d5243c1b-1cb8-497a-a879-dac88205ac48.png)
+ ![fadb432f-2707-4878-84a0-81c114e2a05e](https://user-images.githubusercontent.com/107088999/210293156-dfa11ff4-d312-43bc-aa63-19084958befc.jpg)
+
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
@@ -36,3 +63,20 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 
 
+4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
+Calcular errores de las mediciones y comentar los resultados.
+
+
+
+VIDEO
+
+
+CONCLUSIONES
+
+
+BIBLIOGRAFÍA
+
+*Floyd, T. (2007). Principios de circuitos eléctricos (Ed. 8va). Educación Pearson.
