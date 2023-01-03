@@ -115,6 +115,9 @@ VIDEO
 
 CONCLUSIONES
 
+*Con este laboratorio pudimos poner a prueba el teorema de Superposiciones. Vimos su definición y anotamos los pasos a seguir para tener una mejor idea de su uso. Al igual que otros informes, también notamos que muchas leyes (como las de Ohm y Kirchhoff) se aplican en este nuevo teorema; de igual manera pudimos notar algunos conceptos antiguos como mallas o nodos.
+
+*Logramos recear el circuito propuesto y obtener los datos deseado. Mediamos sus voltajes y corrientes tanto con el circuito entero, como aplicando superposiciones. De igual manera hicimos los calculos manuales para lograr conseguir los datos medidos. Y gracias a esto pudimos concluir que el teorema de Superposición es válido y funciona para lograr encontrar los voltajes en un punto y las corrientes, cuando dicho circuito posee más de un suministrador de energía.
 
 BIBLIOGRAFÍA
 
