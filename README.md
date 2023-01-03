@@ -112,6 +112,7 @@ Calcular errores de las mediciones.
 
 VIDEO
 
+https://www.youtube.com/watch?v=dXG7TpKARC4
 
 CONCLUSIONES
 
