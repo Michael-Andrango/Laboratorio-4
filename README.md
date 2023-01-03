@@ -12,14 +12,27 @@ Parcial: 2
 
 Laboratorio Nro 4 TEMA: Teorema de superposicion 
 
-2 OBJETIVOS
+4 OBJETIVOS
 
-4.1 Objetivo General:
+4.1 Objetivo general
 
-4.2 Objetivos especificos:
+-Determinar de forma teórica y de forma experimental en el Tinkercad (simulador para armar circuitos eléctricos) los valores de tensión y de corriente en un circuito con más de una fuente de tensión con el uso del teorema de superposición teniendo en cuenta que este teorema se usa solamente en circuitos eléctricos lineales.
+
+4.2 Objetivos específicos
+
+-Comprobar los valores medidos y calculados y analizar la diferencia y el calculo del error que existe entre estos valores.
+
+-Armar el circuito en Tinkercad (simulador para armar circuitos eléctricos) con la guia brindada para con esto realizar las respectivas mediciones.
 
 4.3 Marco teorico
 
+Teorema de Superposición
+
+El Teorema de Superposición establece que: El voltaje o corriente a través de cualquier elemento del circuito puede obtenerse sumando algebraicamente todos los voltajes o corrientes individuales generados por cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero.
+
+
+![image](https://user-images.githubusercontent.com/104911658/210368100-db423c44-f1d4-4c9d-a4c7-a9432558a90c.png)
+![image](https://user-images.githubusercontent.com/104911658/210368228-ccf7a644-4e05-440b-9c01-7f9fa6edd151.png)
 
 
 4.4. MATERIAL Y EQUIPO REQUERIDO
