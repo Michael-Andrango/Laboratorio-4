@@ -94,18 +94,20 @@ Calculo analitico
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
+![image](https://user-images.githubusercontent.com/107088999/210388499-06dce17d-9f53-49c9-bb4a-4707b6e6ce94.png)
 
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 
-
+![image](https://user-images.githubusercontent.com/107088999/210388522-268a1e3e-b5d3-4ecf-9dad-ef89a6572125.png)
 
 4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.
 
-Calcular errores de las mediciones y comentar los resultados.
+Calcular errores de las mediciones.
 
+![image](https://user-images.githubusercontent.com/107088999/210391602-93f2ef2d-ba65-4ee4-8c80-307f56c35fe4.png)
 
 
 VIDEO
